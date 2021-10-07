@@ -1,0 +1,20 @@
+{
+    "model": "PostLayout",
+    "presets": [{
+            "label": "Template 1",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "title": "This is a post title 2",
+                "excerpt": "This is the excerpt of your blog post visible in the post feed or featured posts."
+            }
+        },
+        {
+            "label": "Template 2",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "title": "This is a post title 2",
+                "excerpt": "This is the excerpt of your blog post visible in the post feed or featured posts."
+            }
+        }
+    ]
+}
