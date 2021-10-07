@@ -42,5 +42,29 @@ sections:
       type: ImageBlock
       url: /images/hero.png
       altText: Image alt text
+  - elementId: ''
+    colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: center
+    variant: variant-a
+    badge: {}
+    title: Latest news
+    subtitle: Featured blog posts section example
+    actions:
+      - type: Button
+        label: View all
+        url: /
+        style: primary
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
+    type: FeaturedPostsSection
 layout: PageLayout
 ---
