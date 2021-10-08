@@ -44,7 +44,7 @@
             "label": "2 columns light",
             "thumbnail": "images/featured-posts-2-light.jpg",
             "data": {
-                "variant": "variant-b",
+                "variant": "variant-t",
                 "badge": "",
                 "colors": "colors-a",
                 "textAlign": "center"
