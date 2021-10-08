@@ -40,15 +40,6 @@
                 "textAlign": "center"
             }
         },
-         {
-            "label": "2 columns light",
-            "thumbnail": "images/featured-posts-2-light.jpg",
-            "data": {
-                "variant": "variant-t",
-                "badge": "",
-                "colors": "colors-a",
-                "textAlign": "left"
-            }
-        },
+         
     ]
 }
