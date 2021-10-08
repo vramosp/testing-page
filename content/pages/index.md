@@ -43,7 +43,6 @@ sections:
         type: Button
     feature:
       type: ImageBlock
-      url: /images/hero.png
       altText: Image alt text
       caption: Image caption
   - elementId: ''
