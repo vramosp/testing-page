@@ -45,6 +45,7 @@ sections:
       type: ImageBlock
       altText: Image alt text
       caption: Image caption
+      url: /images/desmond-eagle.jpg
   - elementId: ''
     colors: colors-f
     width: wide
